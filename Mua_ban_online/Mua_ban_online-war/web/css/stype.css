@@ -1,0 +1,375 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 12, 2017, 3:15:15 AM
+    Author     : username
+*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wraper{
+    width:1365px;
+    margin: auto;
+    background-color: #fff;
+    font-family: 'Helvetica Neue', Arial, Sans-Serif;   
+}
+.header{
+     width: 1405px;
+     height: 60px;
+     background-color: #183544;
+}
+
+#phancach{
+     width: 300px;  
+     height: 20px;
+     background-color: white;
+}
+.leff{
+    width: 300px;
+    height: 1350px;
+    background-color: #fff;
+    float: left;
+    border-radius: 5px;
+    border: 1px solid #e5ecf4;
+}
+.center{
+  width: 960px;
+  height: 1350px;
+  background-color: #fff;
+  float: left;
+}
+.right{
+     width:  60px;
+     height: 1350px;
+     float: left;
+     background-color: #fff;
+}
+.footer{
+      width: 1365px;
+    height: 50px;
+    clear: both;
+    background-color:#fff;
+     padding: 20px;
+    color: #fff;
+    background-color: #000;
+    font-size: 14px;
+}
+.list_group{
+    position: relative;
+    padding-left: 60px;
+    margin-right: auto;
+    padding-top: 5px;
+}
+a.a1{
+    text-decoration: none;
+}
+a.a1:hover{
+    color: black;
+}
+ ul  li.iteam_dt{
+     line-height: 40px;
+     border: 1px solid #dedede;
+     list-style-type:none;
+}
+ul li a.a2{text-decoration: none; }
+ul li a.a2:hover{
+    color: black;
+}
+.list2{
+      line-height: 40px;
+      border: 1px solid #dedede;
+      background: #f09217;
+}
+.chen_giua{
+    width: 300px; 
+    height: 20px;
+    background-color: #fff;
+}
+ul li.iteam_3{
+     line-height: 40px;
+     border: 1px solid #dedede;
+     list-style-type:none;      
+}
+a.services{
+    text-decoration: none;
+    background-color: black       
+}
+a.services:hover{
+    color: black;
+}
+
+.center_heaher{
+   width: 960px;
+    height: 50px;
+   background-color: #dedede;
+   border-radius: 5px;
+   text-align: center;
+   padding-top: 10px;
+   
+}
+a.hang1{
+   text-decoration: none;
+}
+a.hang1:hover
+{
+    color: blue;
+}
+.center_header2
+{
+     margin-top: 10px;
+     width: 960px;
+     height: 1200px;
+     background-color: #fff;
+     
+         
+}
+
+.table_center
+{
+      width: 1000px;
+     height: 1430px;
+     background-color: aqua;
+  
+}
+.chid_center_header
+{
+     width: 960px;
+     height:350px;
+     background-color: #fff;
+   
+    
+}
+.div1
+{
+     border:  1px solid #dedede;
+     width: 293px;
+     height:330px;
+     background-color: #fff;
+     margin-left: 60px;
+     float: left;
+     text-align: center;
+     padding-top: 20px;
+}
+
+.div2
+{
+    border:  1px solid #dedede;
+     width: 300px;
+     height:330px;
+     background-color: #fff;
+     float: left;
+    text-align: center;
+     padding-top: 20px;
+     
+}
+.div3
+{
+    border:  1px solid #dedede;
+    width: 300px;
+    height:330px;
+    background-color:#fff;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+        
+}
+.button
+{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#b_t
+{
+    padding-left: 90px;
+    width: 200px;
+    height: 70px;
+    padding-top: 30px;
+    font-size: 20px;
+       
+}
+#b_t1
+{
+    
+   
+  
+    width: 100px;
+    height: 30px;
+   padding-top: 5px;
+      display: block;
+      background:#4285f4;
+    text-decoration: none;
+    border-radius: 5px;
+   border: 1px solid #e5ecf4;
+    
+}
+#b_t1:hover
+{
+    width: 105px;
+ background:#f09217;
+ color: #8e44ad
+     
+}
+.phantrang
+{
+    margin-bottom: 10px;
+    height: 50px;
+   
+    padding-top: 20px;
+
+}
+
+ul li.li1
+{
+    list-style-type:none;   
+    float: right;
+    
+}
+ul li a#boder
+{
+    border:  1px solid #dedede;
+    letter-spacing: 10px;
+    text-decoration: none;
+    
+    
+}
+ul li a#boder:hover
+{
+    color: black;
+}
+.header{
+  
+}
+
+
+   
+    
+
+.header_h1
+{
+      width: 500px;
+     height: 60px;
+     padding-left: 70px;
+     float: left;
+    
+     
+}
+.header_h1 a
+{
+   text-decoration: none; 
+}
+.header_h1 a:hover
+{
+    background: #f09217;
+    border-radius: 5px;
+    
+}
+.header_form
+{
+       height: 60px;
+       width: 330px;
+       float: left;
+       padding-left: 20px;
+       padding-top: 10px;
+           
+}
+.input
+{
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+    
+}
+
+.submit
+{
+      height: 30px;
+      width: 60px;
+      border-radius: 5px;
+      background-color:  #e74c3c;
+    
+      
+}
+
+.submit:hover
+{
+background-color:#183544;
+        
+}
+
+.header_mennu
+{
+     
+     height: 60px;
+     
+     float: left;
+     padding-top: 5px;
+     
+     
+}
+.header_mennu ul
+{
+  
+  list-style-type: none;
+   text-align: center;
+       
+}
+
+
+.header_mennu li
+{
+
+ color: #f1f1f1;
+  float: left;
+  width: 140px;
+  height: 40px;
+  line-height: 40px; 
+}
+
+
+.header_mennu ul li a
+{
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+.header_mennu ul li a:hover
+{
+   border-radius: 5px;
+  background: #F1F1F1;
+  color: #333;
+}
+
+.footer_div1
+{
+    
+    width:800px;
+    height: 50px;
+  padding-top:13px; 
+    float: left;
+    
+        
+}
+.footer_div2
+{
+    width:500px;
+    height: 50px;
+    float: left;
+   
+ 
+}
+.footer_div2_text{
+  padding-top:13px; 
+    float: left;
+}
+.footer_div2_chird
+{
+   float: left;
+   width:300px; 
+    height: 50px;
+  
+}
